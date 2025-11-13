@@ -99,7 +99,11 @@ I’m now fully prepared to apply Python in real-world contexts — whether in a
 ## 📎 Credits
 
 **Course:** Python 3 – From Beginner to Advanced  
+
 **Instructor:** Luiz Otávio Miranda
+
 **Platform:** Curso de Python 3 do básico ao avançado - com projetos reais
+
 **Language:** Python 3  
+
 **Available at:** https://www.udemy.com/course/python-3-do-zero-ao-avancado/
