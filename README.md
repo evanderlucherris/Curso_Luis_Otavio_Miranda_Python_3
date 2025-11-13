@@ -66,15 +66,15 @@ It’s constantly updated to ensure compatibility with the **latest Python versi
 
 ## 🗂 Repository Structure
 
-📦 python3-complete-course
-├── 📁 beginner/ # Fundamentals and logic basics
-├── 📁 intermediate/ # Functions, loops, and modularization
-├── 📁 advanced/ # OOP and Design Patterns
-├── 📁 django-projects/ # Web applications using Django
-├── 📁 gui-pyside6/ # Graphical interfaces with PySide6
-├── 📁 database-examples/ # SQLite and MySQL integration
-├── 📁 tests-tdd/ # Automated testing practice
-└── 📄 README.md # This document
+python3-complete-course/
+├── beginner/ # Fundamentals and logic basics
+├── intermediate/ # Functions, loops, and modularization
+├── advanced/ # OOP and Design Patterns
+├── django-projects/ # Web applications using Django
+├── gui-pyside6/ # Graphical interfaces with PySide6
+├── database-examples/ # SQLite and MySQL integration
+├── tests-tdd/ # Automated testing practice
+└── README.md # This document
 
 
 Each folder includes:  
