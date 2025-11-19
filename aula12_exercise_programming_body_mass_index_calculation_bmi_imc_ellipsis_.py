@@ -1,12 +1,12 @@
-nome = 'Evander Lucherris'
-altura = 1.78
-peso = 113
-imc = peso / altura ** 2
+nome = 'Evander Lucherris' #string
+altura = 1.78 #float
+peso = 113 #int
+imc = peso / altura ** 2 #float
 #imc = peso / (altura ** 2)
 
-print(nome, 'tem', altura, 'de altura,')
-print('pesa', peso, 'quilos e seu IMC é')
-print(imc)
+print(nome, 'tem', altura, 'de altura,') #float
+print('pesa', peso, 'quilos e seu IMC é') #int
+print(imc) #float
 
 #Evander Lucherris, tem 1.78m de altura,
 #pesa 113 quilos e seu IMC é

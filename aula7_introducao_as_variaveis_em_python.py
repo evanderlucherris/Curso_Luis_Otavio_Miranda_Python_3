@@ -11,8 +11,8 @@
 # print(int_um, type(int_um))
 # print(nome_completo, soma_dois_mais_dois)
 
-nome = 'Evander'
-idade = 37
-maior_de_idade = idade >= 18
-print('Nome:', nome, 'Idade:', idade)
-print('É maior?', maior_de_idade)
+nome = 'Evander' # str
+idade = 37 # int
+maior_de_idade = idade >= 18 # bool
+print('Nome:', nome, 'Idade:', idade) # str e int
+print('É maior?', maior_de_idade) # bool
